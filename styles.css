@@ -1,0 +1,18 @@
+.Container {
+  text-align: center;
+  margin-top: 120px;
+  border-style :double;
+  border-width : 10px;
+ background-color:#e6bdbd
+}
+
+.stopwatch {
+ 
+  font-size: 40px;
+  margin-bottom: 25px;
+}
+
+.controls button {
+  margin-right: 12px;
+ background-color :  #FFFDD0;
+}
